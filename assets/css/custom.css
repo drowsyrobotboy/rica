@@ -1,0 +1,11 @@
+﻿/* Place Your Custom Styles Here */
+img.ar-brand-img{
+    height: 2.5rem;
+    max-height: 2.5rem;
+    font-size: 2rem;
+    line-height: 2rem;
+}
+ul.ar-list{
+    list-style-type: circle;
+    padding-left: 2rem;
+}
